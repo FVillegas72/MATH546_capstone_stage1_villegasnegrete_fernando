@@ -1,0 +1,4 @@
+
+Link: https://github.com/FVillegas72/MATH546_capstone_stage1_villegasnegrete_fernando/tree/main
+
+Upload all files relevant for the project, including the files provided from the instructor. Files include the Jupyter notebook used for research (capstone_project_research.ipynb), AI log (capstone_stage1_ai_log_villegasnegrete_fernando.md), the Quarto file (capstone_stage1_villegasnergret_fernando.qmd) and the rendered HTML (capstone_stage1_villegasnegrete_fernando.html). Also included are data files for the on-chain data that we pulled from Blockchain.com API, both the raw data (btc_onchain_raw.csv) as well as the on-chain data aligned with the provided BTC data from class (btc_market_onchain_aligned.csv).
